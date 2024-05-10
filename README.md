@@ -7,7 +7,9 @@
 * [API Endpoints](#api-endpoints)
   
 FrontEnd Live URL:   https://entertainment--webapp.vercel.app/
+
 Frontend Github link: https://github.com/cypher1ravi/entertainment-app
+
 Backend Live Link:   https://entertainment-backend.vercel.app/
 
 ## General info
